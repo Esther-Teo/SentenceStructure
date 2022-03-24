@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "731418570897",
+    "firebase_url": "https://sentencestructure-b6912-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sentencestructure-b6912",
+    "storage_bucket": "sentencestructure-b6912.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731418570897:android:3491964277ffa902eb8f30",
+        "android_client_info": {
+          "package_name": "com.example.sentencestructure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731418570897-8296kta2fq7kougrqtsi6bq9t3g81vvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6JE6Gp6xHTzCqGiS8N9637XDUWHpTY5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731418570897-8296kta2fq7kougrqtsi6bq9t3g81vvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
